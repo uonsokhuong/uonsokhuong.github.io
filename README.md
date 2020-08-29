@@ -1,4 +1,3 @@
 # uonsokhuong.github.io
-##Contact me:
-
- [Facebook](https://www.facebook.com/sokhuong.uon.50/)
+Hello, I am sokhuong.
+Sofware Engineering student at Kirirom Institute of Technology
